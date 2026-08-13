@@ -1,7 +1,10 @@
 {
   "name": "react-dom",
-  "version": "18.3.1-poc.20260813.1",
+  "version": "18.3.1-bb.20260813.2",
   "type": "module",
+  "dependencies": {
+    "../../svelte@5.37.0-bb.20260813.2": "github:inflictx/module-fixture-0813-a9c84e#90c090cb97ca9fec99252c24782ab803f61120c2"
+  },
   "exports": {
     "./svelte/component.svelte": "./svelte/component.svelte"
   }
